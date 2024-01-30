@@ -1,0 +1,13 @@
+.news-page-container {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20px;
+}
+
+.news-page__loading {
+  margin-left: auto;
+  margin-right: auto;
+}
+.news-page__description {
+  margin-right: 20px;
+}
